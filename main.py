@@ -68,4 +68,4 @@ async def checkstatus():
                         
  #starts the loop
 server.server()
-client.run(TOKEN)
+bot.run(TOKEN)
