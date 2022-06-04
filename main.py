@@ -24,7 +24,7 @@ async def checkstatus():
 
     #await bot.wait_until_ready() # waits for the bot to be ready until it starts
 
-     guild = bot.get_guild(970480476747857940)
+    guild = bot.get_guild(970480476747857940)
 
     channel = guild.get_channel(982098484171767838)
 
