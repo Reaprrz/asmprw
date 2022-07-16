@@ -9,6 +9,7 @@ import server
 import asyncio
 import time
 import logging
+import discord.ext import bot
 
 client = commands.Bot(command_prefix='$') #This Is The Prefix, Feel Free To Change It Anytime
 
